@@ -22,6 +22,6 @@
 [PSWriteColor](https://github.com/EvotecIT/PSWriteColor) 方便一行多个不同颜色输出  
 [PoShLog](https://github.com/PoShLog/PoShLog) 记录日志  
 [ImportExcel](https://github.com/dfinke/ImportExcel) 导入导出excel  
-[PSReadLine](https://github.com/PowerShell/PSReadLine) 自带语法提示工具,自定义绑定快捷键,
+[PSReadLine](https://github.com/PowerShell/PSReadLine) 自带语法提示工具,自定义绑定快捷键  
 [posh-git](https://github.com/dahlbyk/posh-git)  git命令提示,状态栏展示  
 
